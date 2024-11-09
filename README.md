@@ -41,7 +41,6 @@ The project involves:
 The Tableau dashboard includes:
 
 - **Total Bike Rentals**: Visualization of total bike rentals over time.
-- **User Type Analysis**: Comparison between casual and registered users.
 - **Weather Impact**: Relationship between weather conditions (temperature, humidity, wind speed) and bike rentals.
 - **Hourly Usage Patterns**: Peak hours for bike rentals on weekdays and weekends.
 - **Seasonal Trends**: Bike rental patterns across different seasons.
@@ -56,10 +55,6 @@ The Tableau dashboard includes:
   - **Temperature**: Optimal bike rentals occur at moderate temperatures (20°C - 30°C).
   - **Humidity**: Extremely high or low humidity levels can decrease bike rentals.
   - **Wind Speed**: Generally minimal impact unless wind conditions are extreme.
-
-- **User Behavior**:
-  - **Casual Users**: More active on weekends and holidays, suggesting recreational use.
-  - **Registered Users**: Consistent usage on weekdays, indicating commuting patterns.
 
 - **Seasonal Trends**:
   - Higher bike rentals during spring and summer months.
