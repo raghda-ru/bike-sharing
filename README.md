@@ -24,7 +24,7 @@ Bike-sharing systems act as virtual sensors in the city, capturing mobility patt
 
 ## Project Objective
 
-- **Analyze Factors Affecting Bike Demand**: Investigate how weather, time, and user type influence bike rentals.
+- **Analyze Factors Affecting Bike Demand**: Investigate how weather and time influence bike rentals.
 - **Visualize Data with Tableau**: Create an interactive dashboard to present findings in an accessible format.
 - **Provide Insights for Stakeholders**: Offer data-driven recommendations for city planners and bike-sharing companies.
 
@@ -42,7 +42,7 @@ The Tableau dashboard includes:
 
 - **Total Bike Rentals**: Visualization of total bike rentals over time.
 - **Weather Impact**: Relationship between weather conditions (temperature, humidity, wind speed) and bike rentals.
-- **Hourly Usage Patterns**: Peak hours for bike rentals on weekdays and weekends.
+- **Hourly Usage Patterns**: Peak hours for bike rentals.
 - **Seasonal Trends**: Bike rental patterns across different seasons.
 
 ## Findings
@@ -66,5 +66,5 @@ The analysis was conducted using the [Bike Sharing Demand Dataset](https://www.k
 
 ## Conclusion
 
-The analysis reveals that bike-sharing demand is influenced by time of day, weather conditions, user type, and seasonality. Understanding these factors can help optimize bike availability, improve service for users, and assist in urban planning to promote sustainable transportation.
+The analysis reveals that bike-sharing demand is influenced by time of day, weather conditions, and seasonality. Understanding these factors can help optimize bike availability, improve service for users, and assist in urban planning to promote sustainable transportation.
 
